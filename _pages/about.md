@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+* I am a PhD in National University of Singapore under [ISEP](https://isep.nus.edu.sg/) program. My current research interest is program synthesis, natural language processing and knowledge graph.
+  
 * Graduate from the [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/index.aspx) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am a member of [IEEE honor class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm), an elite student program in the School of Electronics, Information and Electrical Engineering.
 
 * My major is **Computer Science** with a special track for **Artificial Intelligence**. 
