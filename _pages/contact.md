@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 You can contact me through:
-- E-mail: gluttony [AT] sjtu [DOT] edu [DOT] cn
-- Telephone: +86-18217277991
+- E-mail: caiyufan2008 [AT] 126 [DOT] com // caiyufan2sjtu [AT] gmail [DOT] com
+- Telephone: +86-182-1727 7991 // +65 8941-6190

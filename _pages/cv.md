@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+# notice
+wait for updating
 
 # Education
 - **IEEE Honored Class, Shanghai Jiao Tong University (SJTU), Shanghai, China** *2016-2020 (expected)*
@@ -43,12 +45,12 @@ redirect_from:
 - Research on Relation Extraction and built a hierarchical relations encoder-decoder model
 
 # Course Projects
-- Stock Price Prediction and Trading Strategy Design in Financial Transaction, *Data Mining Techniques* [Report](https://caiyufan-sjtu.github.io/files/DM.pdf)
-- Malicious Detection for Social Network using Graph Neural Network and Generative adversarial network, *Computer Network* [PPT](https://caiyufan-sjtu.github.io/files/Network_ppt.pdf) [Report](https://caiyufan-sjtu.github.io/files/Network.pdf)
-- Multiclass, Multilabel Image Classification for biological cell image, *Machine Learning* [Report](https://caiyufan-sjtu.github.io/files/ML.pdf)
-- Design and Implementation of Convolutional Neural Network Acceleration Based on FPGA, *College Innovation Plan* [PPT](https://caiyufan-sjtu.github.io/files/FPGA.pdf)
-- Metric Learning, Feature Encoding, and Domain Adaptation, *Introduction to Data Science* [Report](https://caiyufan-sjtu.github.io/files/Dimension-Reduction.pdf)
-- Academic Plagirism Detection, *Mobile Internet* [Report](https://caiyufan-sjtu.github.io/files/Mobile_Internet.pdf)
+- Stock Price Prediction and Trading Strategy Design in Financial Transaction, *Data Mining Techniques* [Report](https://caiyufan-nus.github.io/files/DM.pdf)
+- Malicious Detection for Social Network using Graph Neural Network and Generative adversarial network, *Computer Network* [PPT](https://caiyufan-nus.github.io/files/Network_ppt.pdf) [Report](https://caiyufan-sjtu.github.io/files/Network.pdf)
+- Multiclass, Multilabel Image Classification for biological cell image, *Machine Learning* [Report](https://caiyufan-nus.github.io/files/ML.pdf)
+- Design and Implementation of Convolutional Neural Network Acceleration Based on FPGA, *College Innovation Plan* [PPT](https://caiyufan-nus.github.io/files/FPGA.pdf)
+- Metric Learning, Feature Encoding, and Domain Adaptation, *Introduction to Data Science* [Report](https://caiyufan-nus.github.io/files/Dimension-Reduction.pdf)
+- Academic Plagirism Detection, *Mobile Internet* [Report](https://caiyufan-nus.github.io/files/Mobile_Internet.pdf)
 - Chinese Word Segmentation System, *Intro to Computers & Programming*
 
 # Service and leadership
