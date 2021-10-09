@@ -25,19 +25,19 @@ wait for updating
 
 
 # Research 
-## Knowledge Graph Building and Dialogue Workflow
+## Hierarchical Relation Extraction 
 
+**Research Intern**, Microsoft, *2020.01 - 2020.06*
+- Researched on Text Image information extraction
+- Practice multiple types of graph neural network models
+
+## Knowledge Graph Building and Dialogue Workflow
 **Research Assistant**, Institute of Data Science, National University of Singapore, *2019.07 – 2019.12(expected)*
 
 - Draft a paper “Graph Convolution for Open Information Extraction”, which utilizes pruned dependency tree as extra information to feed to GCN architecture
 - Survey on supervised learning method for Information Extraction, using a novel viewpoint from question answering on the interrelation and difference among the four tasks: relation extraction, relation-limited relation extraction, open information extraction and relation-fixed information extraction
 - Construct an article-level dataset for relation-fixed IE by automatically controverting a released large dataset DocRED
 - Work for a Gallery Bot Project  which seeks to develop an intelligent data-driven engine for recommendation of artworks and generation of customized dialog flows
-
-## Assessment of Academic plagiarism in Chinese
-**Programmer Team Leader**, Antai College of Economics & Management, Shanghai Jiao Tong University, *2019.01 – 2020.06(expected)*
-- Work for Web Scraping on the ZhiWang, the largest paper database in China
-- Detect and report academic fraud and develop Chinese language processing tools for paper plagiarism
 
 ## Hierarchical Relation Extraction 
 **Research Assistant**, Cyber Space Computing Lab, Shanghai Jiao Tong University, *2018.06 - 2018.12*
