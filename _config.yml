@@ -86,7 +86,7 @@ author:
   location         : "Singapore"
   employer         :
   googlescholar    : 
-  email            : "caiyufan2sjtu AT gmail DOT com"
+  email            : "cai_yufan AT u DOT nus.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : https://orcid.org/0009-0008-7579-0824
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
