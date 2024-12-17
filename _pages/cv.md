@@ -26,10 +26,12 @@ redirect_from:
 - External Reviewer at ICSE,  FSE,  ASE, ISSTA, NeurIPS, AAAI, ICML, WWW, NFM, ATVA
 
 ## Project
-- Certify AI with NUS, Singapore
-- LLM Agent with Formal Methods with NUS, Singapore
-- Health LLM Agent with NUH, Singapore
-- Law LLM Agent with IMDA, Singapore
+- [Dependable Intelligence](https://www.depintel.com/)
+- Certified AI (NUS, Singapore)
+- LLM Agent with Formal Methods (NUS, Singapore)
+- Healthcare LLM Agent (NUH, Singapore)
+- Legal LLM Agent (IMDA, Singapore)
+- [Code Edit Generation](https://se-research.bytedance.com/publication/issta24/) (ByteDance)
 
 ## Leadership
 - Shanghai Jiao Tong Volunteer Union, Director of Information Center, *2017.04 – 2018.08*
