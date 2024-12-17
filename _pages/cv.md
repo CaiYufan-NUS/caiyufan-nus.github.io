@@ -6,60 +6,30 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# notice
-wait for updating
-
 # Education
-- **IEEE Honored Class, Shanghai Jiao Tong University (SJTU), Shanghai, China** *2016-2020 (expected)*
+- **ISEP & PGF, National University of Singapore (NUS), Singapore** *2020-2024*
+- **Ph.D. in Computer Science**
+- **IEEE Honored Class, Shanghai Jiao Tong University (SJTU), Shanghai, China** *2016-2020*
 - **B.Eng. in Computer Science and Artificial Intelligence**
-  - GPA (Main course): 87.4/100 (3.72/4.0)
-  - Comprehensive score (in second year): 93.98/100, ranked 2/91 (in third year): 90.5/100, ranked 8/91
-  - Core Courses: Machine Learning (Grade:A), Artificial Intelligence (A), Data Mining Techniques (A)
-
-# Awards
-- Huawei Scholarship, Huawei, 2018 selective scholarship, *top 3% in one department*
-- Huichuan Scholarship, Huichuan, 2019 selective scholarship, *top 5% in one department*
-- Level B Scholarship, Shanghai Jiao Tong University, 2018 and 2019 selective scholarship, *top 10% in one department*
-- Meritorious Winner, COMAP's Mathematical Contest in Modeling (MCM), 2017, *top 10% in all participants*
-- Excellent Volunteer, Shanghai Jiao Tong University, 2018, *10 students in one year*
-
 
 # Research 
-## Hierarchical Relation Extraction 
+- Program Language and Software Engineering
+- Machine Learning and Deep Learning
+- Large Language Model
+- Program Synthesis
+- Code Generation, Comprehension and Representation
 
-**Research Intern**, Microsoft, *2020.01 - 2020.06*
-- Researched on Text Image information extraction
-- Practice multiple types of graph neural network models
+# Service
 
-## Knowledge Graph Building and Dialogue Workflow
-**Research Assistant**, Institute of Data Science, National University of Singapore, *2019.07 – 2019.12(expected)*
+- Reviewer at the thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025 International Conference on Learning Representations (ICLR)
+- Reviewer at Formal Aspects of Computing, Soft Computing
+- PC Member at the twenty-eighth IEEE Pacific Rim International Symposium on Dependable Computing
+- PC Member at the 1st International Sports Analytics Conference and Exhibition
+- External Reviewer at ICSE,  FSE,  ASE, ISSTA, NeurIPS, AAAI, ICML, WWW, NFM, ATVA
 
-- Draft a paper “Graph Convolution for Open Information Extraction”, which utilizes pruned dependency tree as extra information to feed to GCN architecture
-- Survey on supervised learning method for Information Extraction, using a novel viewpoint from question answering on the interrelation and difference among the four tasks: relation extraction, relation-limited relation extraction, open information extraction and relation-fixed information extraction
-- Construct an article-level dataset for relation-fixed IE by automatically controverting a released large dataset DocRED
-- Work for a Gallery Bot Project  which seeks to develop an intelligent data-driven engine for recommendation of artworks and generation of customized dialog flows
-
-## Hierarchical Relation Extraction 
-**Research Assistant**, Cyber Space Computing Lab, Shanghai Jiao Tong University, *2018.06 - 2018.12*
-- Use Stanford CoreNLP tools to build domain-specific knowledge maps for OpenIE schema
-- Research on Relation Extraction and built a hierarchical relations encoder-decoder model
-
-# Course Projects
-- Stock Price Prediction and Trading Strategy Design in Financial Transaction, *Data Mining Techniques* [Report](https://caiyufan-nus.github.io/files/DM.pdf)
-- Malicious Detection for Social Network using Graph Neural Network and Generative adversarial network, *Computer Network* [PPT](https://caiyufan-nus.github.io/files/Network_ppt.pdf) [Report](https://caiyufan-sjtu.github.io/files/Network.pdf)
-- Multiclass, Multilabel Image Classification for biological cell image, *Machine Learning* [Report](https://caiyufan-nus.github.io/files/ML.pdf)
-- Design and Implementation of Convolutional Neural Network Acceleration Based on FPGA, *College Innovation Plan* [PPT](https://caiyufan-nus.github.io/files/FPGA.pdf)
-- Metric Learning, Feature Encoding, and Domain Adaptation, *Introduction to Data Science* [Report](https://caiyufan-nus.github.io/files/Dimension-Reduction.pdf)
-- Academic Plagirism Detection, *Mobile Internet* [Report](https://caiyufan-nus.github.io/files/Mobile_Internet.pdf)
-- Chinese Word Segmentation System, *Intro to Computers & Programming*
-
-# Service and leadership
+# leadership
 - Shanghai Jiao Tong Volunteer Union, Director of Information Center, *2017.04 – 2018.08*
   - Responsible for drafting Volunteer Union policies and Volunteer Performance Measurement System
-  - Awarded as Top 10 Excellent Volunteer in University
 - Social Practice, Team Leader, *2017.06 – 2017.09*
   - Recruit more than 100 students and organized nationwide social surveys
-  - Achieve national attention and awarded as Best Social Practice in the National Social Practice Competition
 
-# Work experience
-- Part-time job as a online teacher in High School Education, *2017.01 – 2019.06*

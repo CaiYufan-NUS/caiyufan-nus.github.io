@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 You can contact me through:
-- E-mail: caiyufan2008 [AT] 126 [DOT] com // caiyufan2sjtu [AT] gmail [DOT] com
-- Telephone: +86-182-1727 7991 // +65 8941-6190
+- E-mail: cai_yufan [AT] u [DOT] nus.edu
