@@ -8,15 +8,14 @@ redirect_from:
 ---
 # Education
 - **ISEP & PGF, National University of Singapore (NUS), Singapore** *2020-2024*
-- **Ph.D. in Computer Science**
+  - **Ph.D. in Computer Science**
 - **IEEE Honored Class, Shanghai Jiao Tong University (SJTU), Shanghai, China** *2016-2020*
-- **B.Eng. in Computer Science and Artificial Intelligence**
+  - **B.Eng. in Computer Science and Artificial Intelligence**
 
 # Research 
 - Program Language and Software Engineering
 - Machine Learning and Deep Learning
-- Large Language Model
-- Program Synthesis
+- Trustworthy Large Language Model and Agent
 - Code Generation, Comprehension and Representation
 
 # Service
@@ -27,7 +26,7 @@ redirect_from:
 - PC Member at the 1st International Sports Analytics Conference and Exhibition
 - External Reviewer at ICSE,  FSE,  ASE, ISSTA, NeurIPS, AAAI, ICML, WWW, NFM, ATVA
 
-# leadership
+# Leadership
 - Shanghai Jiao Tong Volunteer Union, Director of Information Center, *2017.04 – 2018.08*
   - Responsible for drafting Volunteer Union policies and Volunteer Performance Measurement System
 - Social Practice, Team Leader, *2017.06 – 2017.09*
