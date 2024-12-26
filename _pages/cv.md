@@ -19,7 +19,7 @@ redirect_from:
 - Yufan Cai, Yun Lin, Chenyan Liu, Jinglian Wu, Yifan Zhang, Yiming Liu, Yeyun Gong, Jin Song Dong. On-the-Fly Adapting Code Summarization on Trainable Cost-Effective Language Models (NeurIPS 2023) [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b16e6de5fbbdcb2df237aa66b302bc17-Abstract-Conference.html) [website](https://sites.google.com/view/adacom23/home)
 
 ## Service
-- Reviewer at the thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025 International Conference on Learning Representations (ICLR)
+- Reviewer at NeurIPS 2024 (Top Reviewer), ICLR 2025
 - Reviewer at Formal Aspects of Computing, Soft Computing
 - PC Member at the twenty-eighth IEEE Pacific Rim International Symposium on Dependable Computing
 - PC Member at the 1st International Sports Analytics Conference and Exhibition
@@ -28,14 +28,6 @@ redirect_from:
 ## Project
 - [Dependable Intelligence](https://www.depintel.com/)
 - Certified AI (NUS, Singapore)
-- LLM Agent with Formal Methods (NUS, Singapore)
 - Healthcare LLM Agent (NUH, Singapore)
 - Legal LLM Agent (IMDA, Singapore)
 - [Code Edit Generation](https://se-research.bytedance.com/publication/issta24/) (ByteDance)
-
-## Leadership
-- Shanghai Jiao Tong Volunteer Union, Director of Information Center, *2017.04 – 2018.08*
-  - Responsible for drafting Volunteer Union policies and Volunteer Performance Measurement System
-- Social Practice, Team Leader, *2017.06 – 2017.09*
-  - Recruit more than 100 students and organized nationwide social surveys
-
