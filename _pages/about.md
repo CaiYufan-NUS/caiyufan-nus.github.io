@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 ## News
-- I submit my thesis: [Trustworthy Program Generation](https://caiyufan-nus.github.io/files/thesis.pdf)
-- I passed my PhD oral defense! (12/2024)
-- Our paper [Automated Program Refinement: Guide and Verify Code Large Language Model with Refinement Calculus](https://dl.acm.org/doi/10.1145/3704905) was accepted in POPL 2025!
+- (01/2025) I finalized my thesis: [Trustworthy Program Generation](https://caiyufan-nus.github.io/files/thesis.pdf). 
+- (12/2024) I passed my PhD oral defense! 
+- (11/2024) Our paper [Automated Program Refinement: Guide and Verify Code Large Language Model with Refinement Calculus](https://dl.acm.org/doi/10.1145/3704905) was accepted in POPL 2025! 
 
 ## About Me
 * I am a PhD in National University of Singapore under [ISEP](https://isep.nus.edu.sg/) program starting from August 2020. I also got President's Graduate Fellowship ([PGF](https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship)). 
@@ -25,6 +25,7 @@ redirect_from:
 - Machine Learning and Deep Learning
   - Trustworthy Large Language Model and Agent
 - Formal Method
+  - Formal Verification and Model Checking
 
 ## Personal Interests
 - I am a beginner of skiing.
