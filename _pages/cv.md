@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 ## Education
-- **ISEP & PGF, National University of Singapore (NUS), Singapore** *2020-2024*
+- **National University of Singapore (NUS), Singapore** *2020-2024*
   - **Ph.D. in Computer Science**
-- **IEEE Honored Class, Shanghai Jiao Tong University (SJTU), Shanghai, China** *2016-2020*
+- **Shanghai Jiao Tong University (SJTU), China** *2016-2020*
   - **B.Eng. in Computer Science and Artificial Intelligence**
 
 ## Publication
@@ -26,7 +26,7 @@ redirect_from:
 
 ## Project
 - [Dependable Intelligence](https://www.depintel.com/)
-- [Code Edit Generation](https://se-research.bytedance.com/publication/issta24/) (ByteDance)
+- [Code Evolution](https://se-research.bytedance.com/publication/issta24/) (ByteDance)
 - Certified AI (NUS, Singapore)
 - Healthcare LLM Agent (NUH, Singapore)
 - Legal LLM Agent (IMDA, Singapore)
