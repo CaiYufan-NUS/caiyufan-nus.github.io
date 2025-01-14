@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 ## News
-- I passed my PhD oral defense! (17/12/2024)
-- Our paper [Automated Program Refinement: Guide and Verify Code Large Language Model with Refinement Calculus](https://arxiv.org/abs/2406.18616) was accepted in POPL 2025!
-- I attended the ISSTA 2024 conference at Vienna!
-- I became a pre-Postdoc at NUS! (08/2024)
+- I submit my thesis: [Trustworthy Program Generation](https://caiyufan-nus.github.io/files/thesis.pdf)
+- I passed my PhD oral defense! (12/2024)
+- Our paper [Automated Program Refinement: Guide and Verify Code Large Language Model with Refinement Calculus](https://dl.acm.org/doi/10.1145/3704905) was accepted in POPL 2025!
 
 ## About Me
 * I am a PhD in National University of Singapore under [ISEP](https://isep.nus.edu.sg/) program starting from August 2020. I also got President's Graduate Fellowship ([PGF](https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship)). 
@@ -25,10 +24,11 @@ redirect_from:
   - Code Generation, Comprehension and Representation
 - Machine Learning and Deep Learning
   - Trustworthy Large Language Model and Agent
+- Formal Method
 
 ## Personal Interests
 - I am a beginner of skiing.
-- I love diving, exploring underwater worlds and experiencing the beauty of marine life. I have the [Advanced Open Water PADI certification](https://www.padi.com/education).
-- I have a passion for badminton, where I enjoy both casual and competitive matches. I organize the weekly badminton matches in the group.
-- I was a ZhuDi Player in Ivy Orchestry, which combine Chinese and Western instruments together. [Picture](https://caiyufan-nus.github.io/files/music.jpg) [People](https://caiyufan-nus.github.io/files/orchestra.jpg)
-- I have always been passionate about chemistry experiments and scientific exploration. I competed in the Chinese Chemistry Olympiad and achieved first prize at Zhe Jiang province.
+- I love diving, exploring underwater worlds and experiencing the beauty of marine life. I have the Advanced Open Water PADI certification.
+- I am insterested in badminton, where I enjoy both casual and competitive matches. I organize the weekly badminton matches in the group.
+- I was a ZhuDi Player in [Ivy Orchestry](https://caiyufan-nus.github.io/files/music.jpg).
+- I have been passionate about chemistry. I competed in the Chinese Chemistry Olympiad and achieved first prize at Zhe Jiang province.
