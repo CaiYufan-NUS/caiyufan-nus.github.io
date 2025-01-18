@@ -26,14 +26,14 @@ redirect_from:
 - (External) Reviewer at ICSE,  FSE,  ASE, ISSTA, WWW, NFM, ATVA
 
 ## SELECTED AWARDS  
-- President’s Graduate Fellowship, NUS, 2024
-- Research Achievement Award, NUS, 2023
+- President’s Graduate Fellowship, 2024
+- Research Achievement Award, 2023
 - NUS-ISEP Scholarship, 2020
 - Shanghai Outstanding Graduates, 2020
-- Huichuan Scholarship, SJTU, 2019 
-- Top Ten Volunteers, SJTU, 2019
-- Huawei Scholarship, SJTU, 2018 
-- Meritorious Award, Mathematical Contest in Modeling, 2017
+- Huichuan Scholarship, 2019 
+- Top Ten Volunteers, 2019
+- Huawei Scholarship, 2018 
+- Meritorious Award at Mathematical Contest in Modeling, 2017
 
 ## Project
 - [Dependable Intelligence](https://www.depintel.com/)
