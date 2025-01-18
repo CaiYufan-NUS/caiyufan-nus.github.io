@@ -25,6 +25,16 @@ redirect_from:
 - (Journal) Reviewer at Formal Aspects of Computing, Soft Computing, SN Computer Science 
 - (External) Reviewer at ICSE,  FSE,  ASE, ISSTA, WWW, NFM, ATVA
 
+## SELECTED AWARDS  
+President’s Graduate Fellowship, NUS, 2024
+Research Achievement Award, NUS, 2023
+NUS-ISEP Scholarship, 2020
+Shanghai Outstanding Graduates, 2020
+Huichuan Scholarship, SJTU, 2019 
+Top Ten Volunteers, SJTU, 2019
+Huawei Scholarship, SJTU, 2018 
+Meritorious Award, Mathematical Contest in Modeling, 2017
+
 ## Project
 - [Dependable Intelligence](https://www.depintel.com/)
 - [Code Evolution](https://se-research.bytedance.com/publication/issta24/) (ByteDance)
